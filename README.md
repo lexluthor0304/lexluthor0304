@@ -13,11 +13,6 @@ Builder in Tokyo. I run a film photography contest community and build tools for
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?logo=salesforce&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=lexluthor0304&show_icons=true&hide_border=true&hide_title=true&hide_rank=true" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lexluthor0304&layout=compact&hide_border=true&langs_count=6" alt="Top languages" />
-</p>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lexluthor0304/lexluthor0304/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lexluthor0304/lexluthor0304/output/github-contribution-grid-snake.svg">
